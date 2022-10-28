@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Created By http://www.zhetao.com/sitemapcreator,  URLs: 242 Generated at: 2022-06-20 10:13:49 -->
+
+  <url>
+    <loc>https://www.elastic.co/</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/search</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/contact?storm=global-header-en</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/enterprise-search</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elastic-stack</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-8-2-0?storm=nav-products-new</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/integrations</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/careers/</loc>
+    <priority>0.84</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticsearch</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/index.html</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elasticsearch-kibana-cloud-8-2-0</loc>
+    <priority>0.81</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/kibana</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-observability-8-2-0</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/pricing</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-security-8-2-0</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/industries/public-sector</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/subscriptions</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/partners/</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/elastic-search-awards</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/teams/board</loc>
+    <priority>0.79</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/products/</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/splunk-replacement</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/what-is/elasticsearch</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/aws-elasticsearch-service</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/expert-tips-when-upgrading-elk-stack</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/what-is/elk-stack</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/videos/elastic-is-a-search-company</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability?elektra=home&amp;storm=river2</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security?elektra=home&amp;storm=river3</loc>
+    <priority>0.78</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elastic-stack?elektra=home&amp;storm=stack</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/enterprise-search?elektra=home&amp;storm=river1</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-enterprise-search-8-2-0?baymax=rtp&amp;elektra=home&amp;rogue=sub3</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-8-2-0?elektra=home&amp;storm=announcement</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/events/?elektra=home&amp;storm=sub2</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-enterprise-search-8-2-0</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud/?elektra=home&amp;storm=cloud</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/events</loc>
+    <priority>0.77</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/?elektra=home&amp;storm=logo-bar</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-8-2-0</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/kibana/current/get-started.html</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/app-search/current/getting-started.html</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/training?elektra=home&amp;storm=split-text1</loc>
+    <priority>0.76</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/workplace-search/current/workplace-search-getting-started.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/apm/get-started/current/overview.html</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/legal/trademarks</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/legal/terms-of-use</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/legal/privacy-statement</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/sitemap</loc>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/teams?elektra=home&amp;storm=footer2</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/free-and-open?elektra=home&amp;storm=footer3</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/products?elektra=home</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/elastic-cloud-kubernetes</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/careers/?elektra=home&amp;storm=footer1</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/contact</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/enterprise</loc>
+    <priority>0.74</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/conf/2016/sf/dude-where-are-my-messages-message-analytics-at-netflix?elektra=home&amp;storm=logo-bar</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/conf/2017/sf/powering-uber-marketplace-real-time-data-needs-with-elasticsearch?elektra=home&amp;storm=logo-bar</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/conf/2017/sf/security-at-slack?elektra=home&amp;storm=logo-bar</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/conf/2018/sf/monitor-your-cloud-environment-with-the-logstash-azure-monitoring-module?elektra=home&amp;?storm=logo-bar</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/distributed-elastic-architectures?elektra=home&amp;storm=split-text3</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/twilio?elektra=home&amp;storm=logo-bar</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/explore/security-without-limits/forrester-edr-wave-2022?elektra=home&amp;storm=sub1</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/campaigns/best-practices-for-achieving-self-service-success-and-case-deflection?elektra=organic&amp;storm=CLP&amp;rogue=customerservice-gic</loc>
+    <priority>0.73</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/feed</loc>
+    <priority>0.52</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/culture</loc>
+    <priority>0.52</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/solutions</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/stack-cloud</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/company-news</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/customers</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/insights</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/technical-topics</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/pricing/philosophy</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud/regions</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud/value-calculator</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/elasticsearch</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/kibana</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elastic-stack/2021-total-economic-impact-elastic-observability-security?elektra=products-security-siem&amp;storm=cta1&amp;rogue=forrester-tei-gic</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/campaigns/guide-to-high-volume-data-sources-for-siem?elektra=organic&amp;storm=CLP&amp;rogue=siem-gic</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/virtual-events/limitless-data-search-everything-with-elastic-security</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/getting-started-elasticsearch</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/start</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/ece</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security-and-compliance</loc>
+    <priority>0.51</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/virtual-events/intro-to-elastic-enterprise-search-live?elektra=en-enterprise-search-page</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/web-crawler</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/solution-overview</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/virtual-events/best-practices-for-log-management?elektra=en-observability-page</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/what-is/elasticsearch-machine-learning</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/success-stories?usecase=elastic-observability</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/emirates-nbd</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/sitecore</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security/siem</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security/endpoint-security</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security/xdr</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security/cloud-security</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elastic-stack/features</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticsearch-kubernetes</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud/shared-responsibility</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/search-replicate-across-regions-cloud-providers-Elastic-Cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/tour/2020/europe/from-inflexible-to-elastic-how-audi-business-innovation-leverages-the-full-power-of-elastic-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/kibana/8.2/discover.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/enterprise-search</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/about/careers</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/site-search</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/app-search</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/workplace-search</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/security/current/index.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-protects-against-ransomware-and-linux-threats-in-mitre-engenuity-round-4-eval</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/what-is/elastic-stack-security</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/cloud/current/index.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/campaigns/tips-and-tricks-for-getting-the-most-out-of-elastic-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticsearch/elasticsearch-searchable-snapshots</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticsearch/service/migrate-to-elastic-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/partners/aws</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/partners/google-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/olx-delivers-trusted-trading-platforms-with-elastic-cloud-on-aws</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/sovren</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-8-0-0</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/whats-new-elastic-8-1-0</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/beats</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/integrations/data-integrations</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elastic-agent</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/elasticsearch/client/index.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/getting-started-with-elastic-app-search</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/getting-started-with-elastic-enterprise-search-beta</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/enterprise-search/search-ui</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/explore/improving-digital-customer-experiences/gartner-magic-quadrant-for-insight-engines-report?elektra=organic&amp;storm=CLP&amp;rogue=gartner-mq-gic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/explore/improving-digital-customer-experiences/forrester-wave-cognitive-search?elektra=organic&amp;storm=CLP&amp;rogue=forrester-wave-cs-gic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/application-performance-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/log-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/infrastructure-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/real-user-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/synthetic-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/cloud-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/devops</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/cloud-migration</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/cloud-native</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/aiops</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/digital-experience-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/tool-consolidation</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/observability/current/monitor-uptime-synthetics.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/campaigns/2021-gartner-magic-quadrant-application-performance-monitoring</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/explore/devops-observability/leveraging-observability-to-build-better-applications-at-scale</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/observability/ema-top-3-report</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/explore/devops-observability</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/de-watergroep-and-devoteam-build-elastic-observability-pipeline-to-deliver-water-to-millions</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/virtual-events/threat-hunting-with-the-elastic-stack?elektra=en-security-page&amp;storm=hero</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security-labs</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/security/forrester-new-wave-xdr</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-security-recognized-customers-choice-gartner-peer-insights-report</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/campaigns/2021-gartner-magic-quadrant-siem</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/tour/2019/warsaw/tmobile-powering-telco-aiops-with-elastic-machine-learning</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/misi</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/virtual-events/threat-hunting-with-the-elastic-stack?elektra=en-security-page</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/getting-started-elasticsearch?elektra=en-elastic-stack-page</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/upgrading-your-elastic-stack/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/what-is/kibana-reporting</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/integrations/data-integrations?solution=observability</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customer-success/data-ingestion</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/aws-elasticsearch-service?baymax=rtp&amp;elektra=products-ess&amp;storm=ribbon2&amp;rogue=everyone</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/autoscale-your-elastic-cloud-data-and-machine-learning-nodes</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/partners/microsoft</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/industries/public-sector/fedramp</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/webinars/collector-bank-and-elastic-for-observability-and-security</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/docker</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/static-res/styles/vendors/prettify.css</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/apm</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/elastic-agent</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/logstash</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/hadoop</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/jdbc-client</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/odbc-client</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/ecctl</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/tableau-connector</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/elastic-maps-server</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/shield</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/watcher</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/marvel</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/reporting</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/graph</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/downloads/x-pack</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/logstash</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/workplace-search/content-sources</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/cloud/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/4-key-strategies-for-the-retail-industry-to-fend-off-rising-cybersecurity-risks</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/create-your-own-instrumentation-with-the-java-agent-plugin</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/automating-security-protections-rapid-response-to-malware</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/secure-your-cloud-with-elastic-security</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/detect-domain-generation-algorithm-activity-with-new-Kibana-integration</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/harness-the-power-of-the-cloud-to-build-scalable-search-solutions</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/how-anthem-leverages-big-healthcare-data-to-improve-consumers-lives</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/3-ways-to-prevent-mapping-explosion-in-elasticsearch</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-announces-expanded-collaboration-with-aws</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-expands-strategic-partnership-with-microsoft-to-benefit-customers-in-the-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/earning-trust-across-industries-elastic-industry-standard-certifications-pci-tisax-hipaa-fedramp</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/miles-and-more-delivers-better-customer-experience-and-improved-security-with-elastic-cloud</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/what-the-oak-ridge-national-laboratory-learned-about-its-supercomputers-by-running-elastic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/how-banking-giant-ing-is-future-proofing-payment-processing-with-elastic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/why-usgovernment-scaling-cybervisibility-elastic-cdm-cybersecurity-analyze-data</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/culture-corey-williams-come-as-you-are</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/culture-someone-like-me-how-raya-frantkina-handles-her-childrens-mental-health</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/culture-someone-like-me-cami-lewis-on-being-a-work-at-home-mom</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/culture-mental-health-awareness</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/training/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/events/?tab=1&amp;solution=null&amp;event=Meetup&amp;region=null&amp;language=English&amp;industry=null</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/videos/</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/partners</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/beats</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/fleet/current/fleet-overview.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/guide/en/fleet/current/fleet-elastic-agent-quick-start.html</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-agent-and-fleet-make-it-easier-to-integrate-your-systems-with-elastic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-and-aws-seamlessly-ingest-logs-and-metrics-into-a-unified-platform-with-ready-to-use-integrations</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/getting-started-with-the-azure-integration-enhancement</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-and-google-cloud-now-offer-tighter-data-integration</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/elasticon/conf/2017/sf/security-at-slack</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/customers/engadget</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/using-the-elastic-stack-to-monitor-citigroups-centralized-database</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-observability-2022-gartner-magic-quadrant-critical-capabilities-apm</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/building-a-search-experience-with-elastic</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/regression-testing-your-java-agent-plugin</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/financial-services-stay-ahead-of-the-cybersecurity-risk-curve</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/author/miroslav-mihaylov,-ph.d.,-anthem</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-stack-8.2.3-released</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-stack-8-2-2-released</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-stack-7-17-4-released</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/elastic-stack-8-2-1-released</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/category/releases</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/top-5-areas-cisos-should-prioritize-2022</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/unlock-data-value-with-cloud-infrastructure-services</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.elastic.co/blog/search-data-digital-transformation</loc>
+    <priority>0.50</priority>
+  </url>
+
+</urlset>
